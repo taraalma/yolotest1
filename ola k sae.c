@@ -6,6 +6,6 @@ void kendra()
 	int eresTienePies = 3;
 	existentialismIsAwesome();
 	justKiddin();
-	imDepressed();
+	imLoco();
 	huehue();
 {
